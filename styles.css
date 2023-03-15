@@ -19,5 +19,16 @@ body{
     background-color: rgb(240, 206, 162);
 }
 
+.cat{
+    background-color: rgb(58, 9, 9);
+    color: aliceblue;
+    padding: 10px;
+      
+}
 
+
+
+*{
+    font-family: 'Mulish', sans-serif;
+}
 
