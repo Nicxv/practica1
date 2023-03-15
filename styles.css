@@ -12,7 +12,6 @@
     background-color: rgb(66, 12, 12);
     color: aliceblue;
     padding: 40px;
-    font-family: 'Courier New', Courier, monospace;
     
       
 }
@@ -23,7 +22,6 @@ body{
 
 .sub{
     color: black;
-    font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     background-color: rgb(32, 31, 31);
     color: aliceblue;
@@ -68,16 +66,4 @@ body{
     background: rgb(48, 48, 48);
 }
 
-.cat{
-    background-color: rgb(58, 9, 9);
-    color: aliceblue;
-    padding: 10px;
-      
-}
-
-
-
-*{
-    font-family: 'Mulish', sans-serif;
-}
 
