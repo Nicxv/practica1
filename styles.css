@@ -5,7 +5,8 @@
     margin: 25px;
     color: white;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 100;
+    
     border-radius: 5px;
 }
 
@@ -47,6 +48,7 @@ body{
     width: 100%;
     text-align: center;
     margin: 0;
+    font-size: 20px;
 }
 
 .menu li a{
@@ -68,16 +70,34 @@ body{
 .t3{
     text-align: center;
     font-size: 30px;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 .colorrr{
-    background: #004AAD;
-    display: block;
-    padding: 10px;
-    width: 30%;
+    background-color: #004AAD;
+    display: inline-block;
+    padding: 20px;
     text-decoration: none;
-    text-align: justify;
     color: white;
     border-radius: 10px;
     align-items: center;
+    
+    
+
 
 }
+.in{
+    text-align: center;
+}
+.cc{
+    display: block;
+    padding: 20px;
+    background-color: rgb(227, 215, 215);
+    border-radius: 2px;
+}
+.centrar{
+    display: inline-block;
+    align-items: center;
+}
+
