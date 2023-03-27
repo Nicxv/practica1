@@ -82,6 +82,7 @@ body{
     color: white;
     border-radius: 10px;
     align-items: center;
+
     
     
 
@@ -99,5 +100,9 @@ body{
 .centrar{
     display: inline-block;
     align-items: center;
+}
+.ww0{
+    display: inline-block;
+    
 }
 
